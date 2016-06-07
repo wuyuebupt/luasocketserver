@@ -1,1 +1,1 @@
-# luasocketserver
+# luasocketserverA Lua socket echo server code.Modify the echo part to do the job.Dependency===================================https://github.com/luvit/luv
